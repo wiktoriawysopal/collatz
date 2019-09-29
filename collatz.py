@@ -14,4 +14,5 @@ while n != 1:
         # If n is odd, multiplay by three and add 1.
         n = (3 * n) + 1
 
+#Finally, print the 1.
 print(n)
