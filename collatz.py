@@ -1,4 +1,4 @@
-# The bumber we will perform the collatz operation
+# The number we will perform the collatz operation
 n = int(input("Enter a positive integer: "))
 
 # Keep looping until we reach 1.
